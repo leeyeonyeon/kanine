@@ -1,0 +1,65 @@
+프리미엄 애견 패션의 시작
+The #kanineGeneration
+
+폴로 빅포니 후드티
+98,000원
+자세히 보기
+장바구니
+
+폴로 빅포니 셔츠
+102,000원
+
+폴로 베어 셔츠
+113,000원
+
+폴로 메쉬 셔츠
+79,000원
+
+타미 힐피거 코어 레인코트
+99,000원
+
+
+.image-text {
+  position: absolute;
+  color: white; 
+  text-align: center; 
+  font-size: 40px; 
+  padding: 30px;
+  transition: 0.3s;
+}
+
+.image-text:hover {
+  background-color: rgba(255, 255, 255, 0.8);
+  color: black;
+}
+
+Tommy Hilfiger
+BOSS
+Polo Ralph Lauren
+Kanine Collection
+Looney Tunes
+
+케나인은 취급하는 모든 브랜드들의
+공식 글로벌 라이선스를 보유하고 있으며
+모든 제품은 인증된 정품입니다.
+
+상호명 주식회사 제이앤드지(J&G Corp.)   대표자명 KAHNG JAEWON PARK(강재원) 한은경
+사업장 주소 06034 서울 강남구 강남대로156길 45 연희빌딩 1층
+대표 전화 070-7712-7819 사업자 등록번호 683-81-02985 통신판매업 신고번호2023-서울강남-04792 [사업자정보확인]
+개인정보보호책임자 강재원 jason@kanine.co.kr
+회사소개
+ 
+이용약관
+ 
+개인정보처리방침
+ 
+이용안내
+Copyright © J&G Corp. All Rights Reserved.
+
+The #kanineGeneration
+Kanine Korea
+Kanine Group 은 아일랜드에 본사를 두고 있으며, 홍콩의 영업 hub를 필두로 세계 20개국이 넘는 국가에서 영업하고 있는 다국적 기업입니다.
+
+Polo Ralph Lauren, Boss, Tommy Hilfiger, Looney Tunes등 여러 브랜드의 반려동물 제품 관련 독점 공식 글로벌 라이센스를 보유하고 있으며 전세계적으로 유통 중에 있습니다.
+
+케나인 코리아 (Kanine Korea) 는 Kanine Group 의 한국 독점 Operator 및 Distributor 입니다.
